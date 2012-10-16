@@ -1,0 +1,72 @@
+body {
+    font-family: "Georgia";
+    padding: 10;
+	font-size: 12pt;
+	background-color: #E8E8E8;
+}
+
+#translator_50884 {
+	margin-bottom: 20px;
+	border-bottom: 2px;
+	border-bottom: solid;
+	color: #585858;
+}
+
+h1 {
+	text-align: center;
+	letter-spacing: 1px;
+	border-top: 1px solid;
+	border-bottom: 1px solid;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	font-size: 180%;
+	color: #404040;
+}
+
+.picture {
+	display: none;
+}
+
+h2 {
+	margin-bottom: 20px;
+	margin-top: 20px;
+	font-size: 150%;
+	text-decoration: underline;
+	letter-spacing: 1px;
+	color: #888888;
+}
+
+ul.details {
+	line-height: 150%;
+	width: 50%;
+	padding-left: 50px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	border-bottom: 2px;
+	border-bottom: solid;
+	border-left: 2px;
+	border-left: solid;
+	color: #282828;
+	border-top: 2px;
+	border-top: solid;
+	border-top-color: #FFFFFF;
+	border-right: 2px;
+	border-right: solid;
+	border-right-color: #FFFFFF;
+}
+
+ul dl dt a {
+	color: #787878;
+}
+
+#first {
+	padding-left: 25px;
+	width: 50%;
+	padding-right:10px;
+}
+
+#title {
+	padding-left: 25px;
+	width: 50%;
+	padding-right: 10px;
+}
